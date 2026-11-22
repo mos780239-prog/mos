@@ -1,0 +1,12 @@
+# Visual Studio / Editors
+.vs/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# Rust / Binaries
+target/
+*.exe
+*.pdb
